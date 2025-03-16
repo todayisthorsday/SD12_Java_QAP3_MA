@@ -28,4 +28,11 @@ public class Triangle extends Shape {
     public double getPerimeter() {
         return side1 + side2 + side3;
     }
+
+    @Override
+    public void scale(double scaleFactor) {
+        side1 *= scaleFactor;
+        side2 *= scaleFactor;
+        side3 *= scaleFactor;
+    }
 }
