@@ -1,4 +1,4 @@
-public class CollegeStudent {
+public class CollegeStudent extends Student {
     private String major;
     private int year;
 
