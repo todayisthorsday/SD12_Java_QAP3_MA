@@ -1,26 +1,26 @@
-### 1. **How many hours did it take you to complete this assessment?**
-   - **Total time:** Around **6-8 hours**.  
+1. How many hours did it take you to complete this assessment?**
+   - Total time: Around 6-8 hours.  
      Problem #1 took ~2 hours, Problem #2 ~1.5 hours, Problem #3 ~2 hours, and Problem #4 ~1.5 hours. Testing and debugging took ~1 hour.
 
 ---
 
-### 2. **What online resources did you use?**
-   - **Lecture notes**, **Java documentation**, and **Stack Overflow** for syntax and concepts. Also watched a few **YouTube tutorials** for clarity on inheritance and interfaces.
+2. What online resources did you use?
+   - Lecture notes, Java documentation, and Stack Overflow for syntax and concepts. Also watched a few YouTube tutorials for help on inheritance and interfaces.
 
 ---
 
-### 3. **Did you need to ask any of your friends to help solve the problems?**
-   - **No**, I worked independently and did not ask any friends for help.
+3. Did you need to ask any of your friends to help solve the problems?
+   - No, I worked independently and did not ask any friends for help.
 
 ---
 
-### 4. **Did you need to ask questions to any of your instructors?**
-   - **No**, I completed the assignment without needing to ask instructors for help.
+4. Did you need to ask questions to any of your instructors?**
+   - No, I completed the assignment without needing to ask instructors for help.
 
 ---
 
-### 5. **Rate the difficulty and your confidence for each problem:**
-   - **Problem #1:** Moderate difficulty (3/5). High confidence in solving similar problems.  
-   - **Problem #2:** Easy difficulty (2/5). Very confident in implementing similar classes.  
-   - **Problem #3:** Challenging difficulty (4/5). Moderate confidence due to the math involved.  
-   - **Problem #4:** Moderate difficulty (3/5). High confidence in using interfaces and scaling.
+5. Rate the difficulty and your confidence for each problem:
+   - Problem #1: Moderate difficulty (3/5). High confidence in solving similar problems.  
+   - Problem #2: Easy difficulty (2/5). Very confident in implementing similar classes.  
+   - Problem #3: Challenging difficulty (4/5). Moderate confidence due to the math involved.  
+   - Problem #4: Moderate difficulty (3/5). High confidence in using interfaces and scaling.
